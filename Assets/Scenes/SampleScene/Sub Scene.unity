@@ -266,7 +266,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f3af17fb40b81d4f91863aee2aa37fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Prefab: {fileID: 5668619388022452034, guid: 69305b63c636b31459dd652aa36ccfe6, type: 3}
+  Prefab: {fileID: 5976225867738237825, guid: 01c1fa84ba666b84a9f820ab99c4d6ad, type: 3}
   SpawnRate: 2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

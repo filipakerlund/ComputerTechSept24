@@ -18,7 +18,7 @@ public partial struct PlayerMoveSystem : ISystem
 }
 
 [BurstCompile]
-public partial struct  PlayerMoveJob : IJobEntity
+public partial struct PlayerMoveJob : IJobEntity
 {
     public float DeltaTime;
 
@@ -27,5 +27,4 @@ public partial struct  PlayerMoveJob : IJobEntity
     {
         transform.Position.xy += input.Value * speed.Value * DeltaTime;
     }
-
 }

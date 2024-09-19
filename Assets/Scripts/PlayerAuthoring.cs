@@ -64,7 +64,6 @@ public struct ProjectileMoveSpeed : IComponentData
 // Added IEnableableComponent to toggle this Component on/off.
 public struct FireProjectileTag : IComponentData, IEnableableComponent { }
 
-// new code
 
 public struct ProjectileLifeTime : IComponentData
 {
