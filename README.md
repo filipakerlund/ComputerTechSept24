@@ -2,7 +2,7 @@
 
 - This is a 2022.3.40f1 project from a course using DOTS to learn ECS.  
 - Packages: The Entities package, the new Math library and the new Input System. 
-- It contains a pre-made Windows build in the folder /Builds. 
+- It contains a pre-made Windows build in the zip-file Builds.zip 
 
 In this project, I was introduced to how to create a project using Unity's Data-Oriented Technology Stack (DOTS): the project uses ECS, a Job System and Burt Compiles code. 
 
